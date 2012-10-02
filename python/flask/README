@@ -1,0 +1,15 @@
+PYTHON FLASK SPIKE
+________________________________
+
+SETUP
+
+user@~$ easy_install pip
+user@~$ pip install Flask
+
+RUN SERVER
+
+To run the webserver just:
+
+user@~$ python hello.py
+
+
